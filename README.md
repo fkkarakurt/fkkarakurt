@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [iNeural](https://github.com/fkkarakurt/iNeural)
+- 🔭 I’m currently working on [iNeural](https://github.com/fkkarakurt/iNeural) & [Lupine](https://github.com/fkkarakurt/Lupine)
 
 - 🌱 I’m currently learning **Autoencoder, CNN, RNN, Transformer, NAS**
 
