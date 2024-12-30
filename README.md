@@ -1,16 +1,13 @@
-## Hi there 👋
+Turkish Youth!
 
-<!--
-**fkkarakurt/fkkarakurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Your first duty is forever to preserve and to defend the turkish Independence and the Turkish Republic.
 
-Here are some ideas to get you started:
+This is the very foundation of your existence and your future. This foundation is your most precious treasure. In the future, too, there may be malevolent people at home and abroad who will wish to deprive you of this treasure. If some day you are compelled to defend your independence and your republic, you must not tarry to weigh the possibilities and circumstances of the situation before taking up your duty. These possibilities and circumstances may turn out to be extremely unfavourable. The enemies conspiring against your independence and your republic, may have behind them a victory unprecedented in the annals of the world. It may be that, by violence and ruse, all the fortresses of your beloved fatherland may be captured, all its shipyards occupied, all its armies dispersed and every part of the country invaded. And sadder and graver than all these circumstances, those who hold power within the country may be in error, misguided and may even be traitors. Furthermore, they may indentify their personal interests with the political designs of the invaders. The country may be impoverished, ruined and exhausted.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Youth of turkey's future,
+
+Even in such circumstances it is your duty to save the Turkish Independence and Republic.
+
+You will find the strength you need in your noble blood.
+
+Gazi Mustafa Kemal Atatürk 
