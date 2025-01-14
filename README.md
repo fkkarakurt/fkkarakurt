@@ -1,3 +1,1 @@
-The strength you shall need exists in the noble blood flowing through your veins.
-
-![](daily_photo.jpg)
+![](https://picsum.photos/1920/1080?grayscale)
