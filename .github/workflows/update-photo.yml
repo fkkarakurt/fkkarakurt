@@ -1,0 +1,30 @@
+name: Update Daily Photo
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-photo:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Get today's black-and-white photo
+      run: |
+        curl "https://picsum.photos/1920/1080?grayscale" -o photo.jpg
+
+    - name: Update README.md with new photo
+      run: |
+        # README.md dosyasındaki fotoğrafı güncelliyoruz
+        sed -i 's|![](.*)|![](photo.jpg)|' README.md
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'Your Name'
+        git config --global user.email 'your-email@example.com'
+        git add README.md
+        git commit -m 'Update daily black-and-white photo'
+        git push
