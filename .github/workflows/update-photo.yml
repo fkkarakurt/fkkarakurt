@@ -3,7 +3,6 @@ name: Update Daily Photo
 on:
   schedule:
     - cron: '0 0 * * *'
-
 jobs:
   update-photo:
     runs-on: ubuntu-latest
@@ -18,13 +17,12 @@ jobs:
 
     - name: Update README.md with new photo
       run: |
-        # README.md dosyasındaki fotoğrafı güncelliyoruz
         sed -i 's|![](.*)|![](photo.jpg)|' README.md
 
     - name: Commit and push changes
       run: |
-        git config --global user.name 'Your Name'
-        git config --global user.email 'your-email@example.com'
+        git config --global user.name '${{ secrets.LOG_USER }}'
+        git config --global user.email '${{ secrets.LOG_MAIL }}'
         git add README.md
         git commit -m 'Update daily black-and-white photo'
         git push
