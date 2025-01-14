@@ -1,2 +1,3 @@
-![](./photo.jpg)
-2
+<p align="center">
+    <img src="./photo.jpg" alt="" />
+</p>
