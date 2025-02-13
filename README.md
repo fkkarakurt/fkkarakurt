@@ -1,3 +1,3 @@
 <p align="center">
-    <img src="./photo.jpg" alt="" width="50%" />
+    <img src="./photo2.jpg" alt="" width="70%" />
 </p>
