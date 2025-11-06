@@ -44,3 +44,10 @@
 </div>
 
 ###
+
+---
+<div align="center">
+<strong>GPG Key ID</strong>: 0585 89E3 295E E535 C6C5 D680 118E D169 180B F5D3
+</div>
+
+###
