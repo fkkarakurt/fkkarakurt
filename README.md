@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="./photo2.jpg" alt="" width="70%" />
-</p>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="amazonwebservices logo"  />
   <img width="8" />
