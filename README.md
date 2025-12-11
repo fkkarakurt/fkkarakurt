@@ -43,7 +43,7 @@
 
 ---
 <div align="center">
-<strong>GPG Key ID</strong>: 0585 89E3 295E E535 C6C5 D680 118E D169 180B F5D3
+<strong>GPG Key ID</strong>: A16B C022 2802 8399 2E23  E500 BA22 08AE C204 0A7C
 </div>
 
 ###
