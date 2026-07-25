@@ -1,49 +1,56 @@
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="amazonwebservices logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="60" alt="cmake logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" alt="flask logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="60" alt="qt logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="60" alt="rust logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-</div>
+## Fatih Küçükkarakurt
 
-###
+**Civil engineer (MSc, offshore geotechnics) who writes engineering software.**
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/fkkarakurt/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="http://dev.to/fkkarakurt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  </a>
-  <a href="@wolfbite:matrix.org" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Matrix&logo=matrix&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="matrix logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/fatsec" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  </a>
-</div>
+Geotechnical engineering runs on data — CPT and borehole logs, laboratory
+results, parametric analyses, correlations that get rebuilt in a fresh
+spreadsheet for every project. Most of that work can be automated, tested
+and made reproducible. Very few people can do both the engineering and the
+engineering-grade software. I'm building the tools that sit in that gap.
 
-###
+I also write low-level code, mostly for the pleasure of understanding
+things from the bottom up: a compiler, a 32-bit operating system, and an
+LLM inference engine in pure C — all from scratch.
 
 ---
-<div align="center">
-<strong>GPG Key ID</strong>: A16B C022 2802 8399 2E23  E500 BA22 08AE C204 0A7C
-</div>
 
-###
+### Selected work
+
+**[Nerve](https://github.com/fkkarakurt/Nerve)** · C
+Run a real LLM, sentence embeddings and on-device learning in pure C.
+One header, zero dependencies. TinyLlama-1.1B on a 2017 laptop CPU, and
+the same code as a 65 KB WebAssembly module in the browser.
+
+**[mathparser](https://github.com/fkkarakurt/mathparser)** · C++
+A mathematical expression evaluator and parser.
+
+**[reconic](https://github.com/fkkarakurt/reconic)** · Python
+Network reconnaissance tooling for security professionals.
+
+---
+
+### Currently
+
+Finishing an MSc in geotechnical engineering with a focus on offshore
+geotechnics, while working as a control engineer at a building inspection
+firm in Türkiye — running site inspections, phase approvals, sampling and
+progress-payment processes. The paperwork side of engineering, and the
+reason I started automating it.
+
+Building open-source tooling for geotechnical data alongside the thesis.
+
+---
+
+### Interests
+
+offshore geotechnics · numerical methods · finite element analysis ·
+scientific computing · systems programming · compilers
+
+**Stack:** Python (pandas · numpy · plotly) · C · C++ · Rust
+
+---
+
+📍 İzmir, Türkiye (UTC+3)
+🔗 [LinkedIn](https://www.linkedin.com/in/fkkarakurt/) ·
+[Website](https://fkkarakurt.github.io/) ·
+[dev.to](https://dev.to/fkkarakurt)
