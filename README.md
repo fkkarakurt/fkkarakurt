@@ -16,6 +16,9 @@ LLM inference engine in pure C — all from scratch.
 
 ### Selected work
 
+**[KATAI 2D](https://doi.org/10.5281/zenodo.20692282)** . An open-formulation, verification-driven finite element platform for two-dimensional
+geotechnical analysis under plane-strain and axisymmetric conditions.
+
 **[Nerve](https://github.com/fkkarakurt/Nerve)** · C
 Run a real LLM, sentence embeddings and on-device learning in pure C.
 One header, zero dependencies. TinyLlama-1.1B on a 2017 laptop CPU, and
@@ -23,9 +26,6 @@ the same code as a 65 KB WebAssembly module in the browser.
 
 **[mathparser](https://github.com/fkkarakurt/mathparser)** · C++
 A mathematical expression evaluator and parser.
-
-**[reconic](https://github.com/fkkarakurt/reconic)** · Python
-Network reconnaissance tooling for security professionals.
 
 ---
 
